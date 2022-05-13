@@ -1,0 +1,8 @@
+
+Module 3 - Week 1 assignment 
+--------
+1. What is the difference between white box testing and black box testing
+2. Explain agile model with diagram
+3. Why waterfall model is not used nowadays. What are its disadvantages?
+4. Explain STLC with diagram
+5. Give real time examples for user acceptance testing
